@@ -1,7 +1,7 @@
 
 ## ====== HTML Codes =====
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en" >
 
@@ -20,7 +20,7 @@
 
 ## ===== CSS Codes ========
 
-```
+```css
 .box {
   top: 50%;
   right: 50%;
@@ -54,7 +54,8 @@
 
 ## The Animation code
 
-```
+```css
+
 -webkit-keyframes scale {
   0% {
     -webkit-transform: scale(1);
@@ -119,8 +120,6 @@
   100% {
     -webkit-box-shadow: 0px 0px 0px 0px rgba(255, 77, 28, 0);
     box-shadow: 0px 0px 0px 0px rgba(255, 77, 28, 0); } }
-
-
 
 ```
  
